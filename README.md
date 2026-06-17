@@ -1,5 +1,5 @@
  Hi, I’m @Pedro-Milck
- - I’m interested in C, C++, C#, Java, JS and other languages
+ - I’m interested in C, C#, Java
  - I’m currently learning C and Java
  - 📫 Email: pedromdmilck@gmail.com
  - 💼 LinkedIn: www.linkedin.com/in/pedro-milck-12319a22b/
